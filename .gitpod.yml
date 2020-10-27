@@ -1,3 +1,3 @@
 tasks:
-  - init: npm install -g @angular/cli  --silent && npm install --global http-server
+  - init: npm install -g @angular/cli  --silent && npm install --global http-server && npm install bit-bin -g
     command: 'echo "TODO: Replace with command to start project"'
